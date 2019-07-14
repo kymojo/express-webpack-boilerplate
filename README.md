@@ -36,9 +36,9 @@ Project Structure
 -------------------------
 Notes:
 
-/  						: files needed for building the project
-/server					: server.js and any other server-side code and files
-/client/src				: js to be bundled using webpack
-/client/public			: files publically accessible to clients
+/  			: files needed for building the project
+/server			: server.js and any other server-side code and files
+/client/src		: js to be bundled using webpack
+/client/public		: files publically accessible to clients
 /client/public/script	: scripts (including built bundle.js) for client use
 ```
