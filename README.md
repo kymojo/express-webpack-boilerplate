@@ -1,3 +1,4 @@
+```
 =========================
 About
 -------------------------
@@ -40,3 +41,4 @@ Notes:
 /client/src				: js to be bundled using webpack
 /client/public			: files publically accessible to clients
 /client/public/script	: scripts (including built bundle.js) for client use
+```
