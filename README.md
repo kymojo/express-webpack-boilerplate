@@ -22,14 +22,14 @@ Nodemon
 Project Structure
 -------------------------
  + client
-	+ public
-		+ script
-			- bundle.js
-		- index.html
-	+ src
-		- mycode.js
+   + public
+     + script
+       - bundle.js
+     - index.html
+   + src
+     - mycode.js
  + server
-	- server.js
+   - server.js
  - package.json	
  - webpack.config.js
 
