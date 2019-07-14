@@ -13,7 +13,7 @@ Express
 > npm i --save express
 
 Webpack
-> npm i --save-dev webpack webpack-scli webpack-node-externals
+> npm i --save-dev webpack webpack-cli webpack-node-externals
 
 Nodemon
 > npm i --save-dev nodemon
